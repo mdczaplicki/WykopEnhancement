@@ -22,6 +22,7 @@ for (var j = 0; j < allThreads.length; ++j) {
                 currentArray[i].style.display = 'list-item';
             }
             currentThread.removeChild(this);
+            alert('test');
         }
         thread.appendChild(elem);
     }

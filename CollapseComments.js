@@ -4,7 +4,7 @@
 // @version      0.2
 // @description  Wykop comment collapser
 // @author       You
-// @match        https://www.wykop.pl/link/
+// @match        https://www.wykop.pl/link/*
 // @grant        none
 // ==/UserScript==
 

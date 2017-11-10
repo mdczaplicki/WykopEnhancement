@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CollapseComment
 // @namespace    https://github.com/mdczaplicki
-// @version      0.1
+// @version      0.2
 // @description  Wykop comment collapser
 // @author       You
 // @match        https://www.wykop.pl/link/

@@ -19,6 +19,7 @@
     button.addClass('btn-xs');
 
     button.css('float', 'right');
+    button.css('width', '300px');
 
     button.click(function() {refreshAll();});
 

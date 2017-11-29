@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         PodRefreshAll
 // @namespace    https://github.com/mdczaplicki
-// @version      1.0
+// @version      1.1
 // @description  Path of Diablo refresh all button
 // @author       Marek Czaplicki
 // @match        https://pathofdiablo.com/p/?account*

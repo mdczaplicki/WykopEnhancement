@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         PodChat
 // @namespace    https://github.com/mdczaplicki
-// @version      1.0
+// @version      1.1
 // @description  Discord chat prettifier
 // @author       Jotto
-// @match        https://discordapp.com/channels/111158239135064064/338397643174707220
+// @match        https://discordapp.com/channels/111158239135064064*
 // @grant        none
 // ==/UserScript==
 
